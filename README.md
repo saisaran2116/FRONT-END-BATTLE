@@ -5,7 +5,7 @@ A premium, high-converting, responsive landing page for an advanced AI-driven da
 ## Features
 
 - **Matrix-Driven Pricing Engine:** Dynamically calculates pricing across multiple currencies (USD, EUR, INR) and billing cycles (Monthly, Annual). State updates are strictly isolated to localized DOM nodes for maximum performance.
-- **Adaptive Bento UI:** A feature showcase that displays as a modern Bento-Grid on desktop and refactors into a fluid Accordion list on mobile.
+- **Adaptive Bento UI:** A feature showcase that displays as a modern in Bento-Grid on desktop and refactors into a fluid Accordion list on mobile.
 - **High Performance:** Designed to load and execute initial animations natively in under 500ms without relying on heavy external runtime UI libraries. 
 
 ## Technology Stack
